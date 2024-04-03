@@ -53,13 +53,11 @@ The fundamental problem is adoption, and there are three factors working against
 
 ### Re Emergent Problems in DAO Governance
 
-- In the crypto space, there's a history of tension between two major approaches to DAO governance: 
+In the crypto space, there's a history of tension between two major approaches to DAO governance: 
 
-  - Purely code-driven DAO governance, such as the classic Compound approach where proposals by participants are limited to adjustment of quantitative parameters or code changes that do not require any human judgment to implement. The obvious problem with this approach is that every proposer must be fluent in code.
+- Purely code-driven DAO governance, such as the classic Compound approach where proposals by participants are limited to adjustment of quantitative parameters or code changes that do not require any human judgment to implement. The obvious problem with this approach is that every proposer must be fluent in code.
 
-  - Open-ended DAO governance, where proposals take a narrative form and both evaluation and implementation require a significant amount of human judgment. The obvious problem with this approach is that it's prone to capture by bad actors.
+- Open-ended DAO governance, where proposals take a narrative form and both evaluation and implementation require a significant amount of human judgment. The obvious problem with this approach is that it's prone to capture by bad actors.
 
-- The MetaLeX whitepaper leans into a hybrid by proposing more nuanced automated governance mechanisms that can handle more nuanced human inputs than simple parameter tweaks or changes to the raw code.
-
-- Because neither of the emergent approaches has been able to fully address the needs of DAO participants so far, there's a lot of apathy, disappointment, angst, and room for innovation in this space.
+The MetaLeX whitepaper leans into a hybrid by proposing more nuanced automated governance mechanisms that can handle more nuanced human inputs than simple parameter tweaks or changes to the raw code. Because neither of the emergent approaches has been able to fully address the needs of DAO participants so far, there's a lot of apathy, disappointment, angst, and room for innovation in this space.
 
