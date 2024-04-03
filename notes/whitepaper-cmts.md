@@ -19,9 +19,15 @@ The whitepaper presents a compelling opportunity since the crypto economy alread
 
 I like the paper's call to action. It deserves to be read in its original language. I've tried to capture the essence of the paper's thesis [in my notes](./whitepaper-summary-sli.md), but I encourage you to read [the original document](https://metalex.substack.com/p/the-metalex-whitepaper) and [its precursor blog post](https://delphilabs.medium.com/assimilating-the-borg-a-new-cryptolegal-framework-for-dao-adjacent-entities-569e54a43f83).
 
-## The Problem with DAO Governance
+## Multilateral Problem
 
-### Emergent Approaches Fall Short
+It's interesting that the MetaLeX thesis should resonate equally with:
+
+- Anyone who has looked deeply into DAO governance and uncovered a version of traditional corporate governance (delegation to boards and committees, capture by influential personalities, etc.), but under a veneer of "decentralization".
+
+- Anyone who has been forced to slog through fundraising, setting up an ESOP, setting up a JV or acquisition, or any other significant corporate event in a traditional corporate entity. 
+
+### Emergent Approaches to DAO Governance Fall Short
 
 In the crypto space, there's a history of tension between two major approaches to DAO governance: 
 
@@ -43,7 +49,11 @@ As an experienced transactional lawyer and coder, I've developed over the years 
 
 - The most-asked question by clients (in my experience) is "what's standard"? Most lawyers respond to this question based on dubious anecdotal evidence—i.e., their experience and the experience of whichever of their peers responded to a mass email query. There are major structural hurdles to compiling and sharing data about what's "standard" in a given industry or transaction type.
 
-### Why Computational Contracts Went Nowhere
+- In my experience, the legal documents involved in corporate events are particularly prone to dubious logic puzzles, webs of cross-references, and unexplained references to extrinsic sources. An unintiated reader has no hope of understanding these documents without a lawyer's help, which sets up an unhealthy dependency on the lawyer's continued involvement. In other words, there is a powerful incentive for lawyers to keep the documents as complex and confusing as possible.
+
+- The legal industry is firmly entrenched in a 10-year+ lag behind the rest of the economy in terms of adopting new technologies, and will remain there until it's forced to alter its business model. I worked in BigLaw long enough to get a taste for the inertia and resistance to change that emanates from senior partners whose secretaries read yesterday's email to them in the morning.
+
+## Why Computational Contracts Went Nowhere
 
 There's a long history of "computational contracts" in academic circles. None of these efforts has succeeded meaningfully, in my opinion. 
 
@@ -54,18 +64,6 @@ The fundamental problem is adoption, and there are three factors working against
 - Cultivating a community of lawyers who are willing to engage in this kind of work, and who don't lazily fall back into broken-but-familiar patterns.
 
 - Re-aligning lawyer incentives away from "make-work" outputs that keep them in the business of charging hourly rates for endless consultations.
-
-## Multilateral Appeal
-
-It's interesting that the MetaLeX thesis should resonate equally with:
-
-- Anyone who has looked deeply into DAO governance and uncovered a version of traditional corporate governance (delegation to boards and committees, capture by influential personalities, etc.), but under a veneer of "decentralization".
-
-- Anyone who has been forced to slog through fundraising, setting up an ESOP, setting up a JV or acquisition, or any other significant corporate event. 
-
-In my experience, the legal documents involved in these tasks are full of dubious logic puzzles, webs of cross-references, and unexplained references to extrinsic sources. An unintiated reader has no hope of understanding these documents without a lawyer's help, which sets up an unhealthy dependency on the lawyer's continued involvement. In other words, there is a powerful incentive for lawyers to keep the documents as complex and confusing as possible.
-
-It's also a given that the legal industry poses no threat in terms of competition. It is firmly entrenched in a 10-year+ lag behind the rest of the economy in terms of adopting new technologies, and will remain there until it's forced to alter its business model.
 
 ## Recent Developments in the Underlying Tech
 

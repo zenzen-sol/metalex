@@ -2,7 +2,7 @@
 
 _This repo is not associated with MetaLeX or MetaLeX Labs, Inc. in any way._
 
-This is a personal project by Sol Irvine to capture [some reading notes](./notes/whitepaper-summary.md) while reviewing [the MetaLeX Whitepaper](https://metalex.substack.com/p/the-metalex-whitepaper), and possibly engage in [discussion](https://github.com/zenzen-sol/metalex/issues) with other community members.
+This is a personal project by me ([Sol Irvine](https://www.zenzen.io/sol)) to capture [some reading notes](./notes/whitepaper-summary.md) while reviewing [the MetaLeX Whitepaper](https://metalex.substack.com/p/the-metalex-whitepaper).
 
 ### Table of Contents
 
