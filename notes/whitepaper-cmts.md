@@ -69,11 +69,11 @@ The fundamental problem is adoption, and there are three factors working against
 
 When I first started building in crypto, the Gnosis SAFE multisig was the gold standard for managing a shared on-chain account, largely because it was battle-tested and already widely adopted. That hasn't changed, although the product has rebranded to [Safe {Core}](https://safe.global/core) "smart accounts", and massively improved its UX.
 
-Today, [Safe exposes an API](https://docs.safe.global/advanced/smart-account-overview) for developers to add "modules" that enhance the functionality of the Core smart account. This is a powerful feature that allows developers to build on top of the Safe platform.
+Today, [Safe exposes an API](https://docs.safe.global/advanced/smart-account-overview) for developers to add "modules" that enhance the functionality of the {Core} smart account. This is a powerful feature that allows developers to build on top of the Safe platform.
 
 In my experience, serious users of Safe are hesitant to adopt modules, since they potentially introduce new code risk and surface area for attacks/bugs. If MetaLeX is able to make a strong push for adoption of some standardized and vetted modules, it could go a long way toward alleviating these concerns.
 
-In addition, there are more multisigs coming online and gathering credibility as they accrue more time without issues. Safe Core is an EVM ecosystem product. Since the MetaLeX thesis is not chain-dependent, other multisig technologies may be needed to provide a foundation in other ecosystems.
+In addition, there are more multisigs coming online and gathering credibility as they accrue more time without issues. Safe {Core} is an EVM ecosystem product. Since the MetaLeX thesis is not chain-dependent, other multisig technologies may be required to provide a foundation in other ecosystems.
 
 ## On Branding
 
