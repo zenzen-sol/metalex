@@ -1,33 +1,15 @@
-_Editorial Comments on "The MetaLeX Whitepaper"_
-_Sol Irvine, 2024-03-29_
+[⇠ Top](../README.md)
 
-I took the notes below during a careful reading of the whitepaper. I like the paper's call to action, and it deserves to be read in its original language. I've tried to capture the essence of the paper's thesis in my notes, but I encourage you to read [the original document](https://metalex.substack.com/p/the-metalex-whitepaper).
+# Summary Notes on the MetaLeX Whitepaper
 
-- My primary takeaway from the whitepaper is that much of the legal mumbo-jumbo in corporate governance can be replaced by deterministic smart contracts whose scope is carefully tailored to allow human beings to act on behalf of the organization with hard limits on their discretion. However, a purely deterministic organization is not desirable, since the organization and its individual participants operate inside one or more legal regimes that cannot be ignored.
+## Table of Contents
 
-- This thesis will resonate most with anyone who has had to slog through fundraising, setting up an ESOP, setting up a JV or acquisition, or any other significant corporate event. In my experience, the legal documents involved in these tasks are full of dubious logic puzzles, webs of cross-references, and unexplained references to extrinsic sources. An unintiated reader has no hope of understanding these documents without a lawyer's help, which sets up an unhealthy dependency on the lawyer's continued involvement. In other words, there is a powerful incentive for lawyers to keep the documents as complex and confusing as possible.
-
-- As an experienced transactional lawyer and software developer, I've developed over the years some "hot takes" that align pretty well with the thesis of this whitepaper:
-
-  - Most contracts are fundamentally documenting rules for moving money around. Financial remedies and the timing of money transfers are where the rubber meets the road. Everything else is just wheelspinning, or documenting context for anticipated disputes, at best.
-
-  - Most contract don't parse—i.e., they don't have a clear, deterministic outcome for the most anticipated and important inputs. Defined terms/taxonomy in contract language is often imprecise and open to interpretation in ways that code can never be.
-
-  - Most clients want to know that they're getting comparable terms to what everyone else is getting, regardless of the quality or integrity of that outcome. The treat parity with their peers as a proxy for fairness and integrity of the contract terms.
-
-  - The most-asked question by clients (in my experience) is "what's standard"? Most lawyers respond to this question based on dubious anecdotal evidence—i.e., their experience and the experience of whichever of their peers responded to a mass email query. There are major structural hurdles to compiling and sharing data about what's "standard" in a given industry or transaction type.
-
-- There's a long history of "computational contracts" in academic circles. None of these efforts has succeeded, in my opinion. The fundamental problem is three-fold: 
-  
-  - Disrupting client expectations about what a contract can be, and moving them away from seeking peer parity.
-
-  - Cultivating a community of lawyers who are willing to engage in this kind of work, and who don't lazily fall back into broken-but-familiar patterns.
-
-  - Re-aligning lawyer incentives away from "make-work" outputs that keep them in the business of charging hourly rates for endless consultations.
-
-- The whitepaper presents a compelling opportunity in the context of the crypto economy, where displacement of traditional methodologies through the disruptive force of deterministic code is already welcomed and expected.
-
-# Summary of the Whitepaper
+- [Intro](#intro)
+- [Phase 1](#phase-1)
+  - [Phase 1A](#phase-1a)
+  - [Phase 1B](#phase-1b)
+- [Phase 2](#phase-2)
+- [Phase 3](#phase-3)
 
 ## Intro
 
