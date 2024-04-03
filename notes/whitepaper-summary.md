@@ -87,21 +87,21 @@ Phase 1B "takes traditional business entities—for example, a venture-capital-b
 
 Consider the following features of current approaches to tokenized securities, and the whitepaper's responses to each:
 
-- *Feature*: Optimize liquidity and ease the burden of cap table management.
+1. **Feature**: Optimize liquidity and ease the burden of cap table management.
   
-  - *Response*: Valid concerns, but essentially administrative "nice to have" features that underutilize the potential of tokenized securities.
+  **Response**: Valid concerns, but essentially administrative "nice to have" features that underutilize the potential of tokenized securities.
 
-- *Feature*: Centralization of control over tokenized securities. Justified as necessary because securities derive from a trust-based legal system, and legal compliance requires trust-based interventions.
+2. **Feature**: Centralization of control over tokenized securities. Justified as necessary because securities derive from a trust-based legal system, and legal compliance requires trust-based interventions.
 
-  - *Response*: The most important and innovative aspect of crypto technology is trust minimization. Tokenization of securities should be used to limit censorability, reversibility and permissioning, not to make them easier.
+  - **Response**: The most important and innovative aspect of crypto technology is trust minimization. Tokenization of securities should be used to limit censorability, reversibility and permissioning, not to make them easier.
 
-- *Feature*: Not optimized to enhance disintermediation, governance, and deal-making capabilities.
+3. **Feature**: Not optimized to enhance disintermediation, governance, and deal-making capabilities.
 
-  - *Response*: Sacrificing these qualities eliminates the most important ‘unlocks’ of putting securities on-chain.
+  - **Response**: Sacrificing these qualities eliminates the most important ‘unlocks’ of putting securities on-chain.
 
-- *Feature*: Custodial control over the RWAs is often placed in a centralized trust (_e.g._, public benefit corp).
+4. **Feature**: Custodial control over the RWAs is often placed in a centralized trust (_e.g._, public benefit corp).
 
-  - *Response*: DAO participants have insufficient direct influence and remedies against these trusted entities. The trusted entities are likely unable to handle insolvency or regulatory attacks in the best interests of DAO membership.
+  - **Response**: DAO participants have insufficient direct influence and remedies against these trusted entities. The trusted entities are likely unable to handle insolvency or regulatory attacks in the best interests of DAO membership.
 
 Some concrete examples of how tokenized securities can enhance traditional corporate governance:
 
