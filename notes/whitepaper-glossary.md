@@ -12,7 +12,7 @@ _Feel free to propose specific definitions. For now, I've just catalogued some o
 
 **BORG**: A traditional entity (_e.g._, corporations, limited liability companies, foundations, _etc._) that legally mandates the use of autonomous technologies (such as smart contracts and AI) to conduct some or all of its operations and/or governance. Shorthand for a "cyBernetic ORGanization".
 
-**BORG_CORE**: A standardized guardian contract that enhances a {SAFE} multisig smart account with additional features and protections that support the BORG's operations and governance.
+**BORG_CORE**: A standardized guardian contract that enhances a Safe {Core} multisig smart account with additional features and protections that support the BORG's operations and governance.
 
 **DAO-Adjacent BORG**: A BORG entity funded by and undertaking activities beneficial to a parent or sibling DAO, under a carefully constructed set of checks and balances.
 
