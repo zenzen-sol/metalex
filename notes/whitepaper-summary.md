@@ -117,9 +117,9 @@ Phase 2 is establishing consensus on a protocol and accompanying ecosystem for g
 
 In simple transactions among cryptonatives, there is a shocking lack of ‘dogfooding’. Examples:
 
-- "Many token lockups are ‘handshake deals’ or utilize third-party institutional custodians rather than smart-contract-based escrows."
+> "Many token lockups are ‘handshake deals’ or utilize third-party institutional custodians rather than smart-contract-based escrows."
 
-- "Project founders or DAO workers often make public commitments not to sell tokens, yet their users and investors do not insist that they trust-minimize this promise with smart contract lockups to prevent dumping."
+> "Project founders or DAO workers often make public commitments not to sell tokens, yet their users and investors do not insist that they trust-minimize this promise with smart contract lockups to prevent dumping."
 
 Phase 2 introduces the term "deal technology" which means establishment of interoperable BORGs that can be composed to fit the needs of any transaction or organization.
 
