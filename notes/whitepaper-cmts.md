@@ -33,7 +33,7 @@ The MetaLeX whitepaper leans into a hybrid approach where more nuanced automated
 
 ### TradLaw is Deeply Unwell
 
-As an experienced transactional lawyer and software developer, I've developed over the years some "hot takes" that align pretty well with the thesis of this whitepaper:
+As an experienced transactional lawyer and coder, I've developed over the years some "hot takes" that align pretty well with the thesis of this whitepaper:
 
 - Most contracts are fundamentally documenting rules for moving money around. Financial remedies and the timing of money transfers are where the rubber meets the road. Everything else is just wheelspinning, or documenting context for anticipated disputes, at best.
 
