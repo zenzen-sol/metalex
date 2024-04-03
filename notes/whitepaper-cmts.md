@@ -9,13 +9,17 @@ These are just some off-the-cuff observations made during [my close reading of t
 
 ### TL;DR
 
-- My primary takeaway from the whitepaper is that much of the legal mumbo-jumbo in corporate governance/events can be replaced by a more efficient and deterministic collection of smart contracts. However, the scope of those contracts must be carefully tailored to allow human beings to operate the origanization inside one or more extrinsic legal regimes.
+- My primary takeaway from the whitepaper is that much of the legal mumbo-jumbo in corporate governance/events can be replaced by a more efficient and deterministic collection of smart contracts. However, those contracts must be carefully scoped to: 
 
-- The whitepaper presents a compelling opportunity in the context of the crypto economy, where displacement of traditional methodologies through the disruptive force of deterministic code is already welcomed and expected.
+  1. Allow human beings to operate the organization inside one or more extrinsic legal regimes.
+  2. Provide constraints for handling the inevitable cases where unintended consequences run amok.
+  3. Avoid runaway complexity that would make them as opaque as the legal documents they replace.
 
-- I like the paper's call to action, and it deserves to be read in its original language. I've tried to capture the essence of the paper's thesis in my notes, but I encourage you to read [the original document](https://metalex.substack.com/p/the-metalex-whitepaper).
+- The whitepaper presents a compelling opportunity since the crypto economy already welcomes and expects displacement of traditional methodologies through the disruptive force of deterministic code.
 
-### The Problem Statement
+- I like the paper's call to action. It deserves to be read in its original language. I've tried to capture the essence of the paper's thesis [in my notes](./whitepaper-summary-sli.md), but I encourage you to read [the original document](https://metalex.substack.com/p/the-metalex-whitepaper) and [its precursor blog post](https://delphilabs.medium.com/assimilating-the-borg-a-new-cryptolegal-framework-for-dao-adjacent-entities-569e54a43f83).
+
+### TradLaw is Deeply and Badly Broken
 
 - This thesis will resonate most with anyone who has been forced to slog through fundraising, setting up an ESOP, setting up a JV or acquisition, or any other significant corporate event. In my experience, the legal documents involved in these tasks are full of dubious logic puzzles, webs of cross-references, and unexplained references to extrinsic sources. An unintiated reader has no hope of understanding these documents without a lawyer's help, which sets up an unhealthy dependency on the lawyer's continued involvement. In other words, there is a powerful incentive for lawyers to keep the documents as complex and confusing as possible.
 
