@@ -1,6 +1,6 @@
 [⇠ Top](../README.md)
 
-_Editorial Comments on "The MetaLeX Whitepaper"_
+## Editorial Comments on "The MetaLeX Whitepaper"
 
 _Sol Irvine, 2024-03-29_
 
