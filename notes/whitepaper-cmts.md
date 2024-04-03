@@ -6,7 +6,7 @@ _Sol Irvine, 2024-03-29_
 
 These are just some off-the-cuff observations made during [my close reading of the whitepaper](./whitepaper-summary-sli.md). 
 
-I like the paper's call to action, and it deserves to be read in its original language. I've tried to capture the essence of the paper's thesis in my notes, but I encourage you to read [the original document](https://metalex.substack.com/p/the-metalex-whitepaper).
+- I like the paper's call to action, and it deserves to be read in its original language. I've tried to capture the essence of the paper's thesis in my notes, but I encourage you to read [the original document](https://metalex.substack.com/p/the-metalex-whitepaper).
 
 - My primary takeaway from the whitepaper is that much of the legal mumbo-jumbo in corporate governance/events can be replaced by a more efficient and deterministic collection of smart contracts. However, the scope of those contracts must be carefully tailored to allow human beings to operate the origanization inside one or more extrinsic legal regimes.
 
