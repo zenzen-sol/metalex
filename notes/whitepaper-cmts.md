@@ -43,11 +43,11 @@ As an experienced transactional lawyer and coder, I've developed over the years 
 
 - Most contracts are fundamentally documenting rules for moving money around. Financial remedies and the timing of money transfers are where the rubber meets the road. Everything else is just wheelspinning, or documenting context for anticipated disputes, at best.
 
-- Most contract don't parse—i.e., they don't have a clear, deterministic outcome for the most anticipated and important inputs. Defined terms/taxonomy in contract language is often imprecise and open to interpretation in ways that code can never be.
+- Most contract don't parse—_i.e._, they don't have a clear, deterministic outcome for the most anticipated and important inputs. Defined terms/taxonomy in contract language is often imprecise and open to interpretation in ways that code can never be.
 
 - Most clients want to know that they're getting comparable terms to what everyone else is getting, regardless of the quality or integrity of that outcome. The treat parity with their peers as a proxy for fairness and integrity of the contract terms.
 
-- The most-asked question by clients (in my experience) is "what's standard"? Most lawyers respond to this question based on dubious anecdotal evidence—i.e., their experience and the experience of whichever of their peers responded to a mass email query. There are major structural hurdles to compiling and sharing data about what's "standard" in a given industry or transaction type.
+- The most-asked question by clients (in my experience) is "what's standard"? Most lawyers respond to this question based on dubious anecdotal evidence—_i.e._, their experience and the experience of whichever of their peers responded to a mass email query. There are major structural hurdles to compiling and sharing data about what's "standard" in a given industry or transaction type.
 
 - In my experience, the legal documents involved in corporate events are particularly prone to dubious logic puzzles, webs of cross-references, and unexplained references to extrinsic sources. An unintiated reader has no hope of understanding these documents without a lawyer's help, which sets up an unhealthy dependency on the lawyer's continued involvement. In other words, there is a powerful incentive for lawyers to keep the documents as complex and confusing as possible.
 
@@ -74,3 +74,8 @@ Today, [Safe exposes an API](https://docs.safe.global/advanced/smart-account-ove
 In my experience, serious users of Safe are hesitant to adopt modules, since they potentially introduce new code risk and surface area for attacks/bugs. If MetaLeX is able to make a strong push for adoption of some standardized and vetted modules, it could go a long way toward alleviating these concerns.
 
 In addition, there are more multisigs coming online and gathering credibility as they accrue more time without issues. Safe Core is an EVM ecosystem product. Since the MetaLeX thesis is not chain-dependent, other multisig technologies may be needed to provide a foundation in other ecosystems.
+
+## On Branding
+
+I think the taxonomy of "bizBORGs" vs "DAO-adjacent entities" needs to be catchier/more memorable. Adoption is with this
+kind of effort, so classic marketing/branding principles apply.

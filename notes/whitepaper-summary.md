@@ -81,7 +81,7 @@
 
 - Phase 1B "takes traditional business entities—for example, a venture-capital-backed startup—and supercharges with them autonomous technologies to upgrade their governance, operations, financing and dealmaking capabilities for the cybernetic economy."
 
-  - "...linked with 'real-world-assets' aka RWAs (i.e., mostly tokenized securities), since the equivalent of a DAO-token that has governance and economic powers over a DAO is a tokenized share of stock (or, in some cases, a tokenized bond/debt security) that has governance and economic rights over a bizBORG"
+  - "...linked with 'real-world-assets' aka RWAs (_i.e._, mostly tokenized securities), since the equivalent of a DAO-token that has governance and economic powers over a DAO is a tokenized share of stock (or, in some cases, a tokenized bond/debt security) that has governance and economic rights over a bizBORG"
 
   - "The point is not just to slap tokenization onto existing corporate logic, but to harness these new capabilities to upgrade the corporate form for the cybernetic economy."
 
