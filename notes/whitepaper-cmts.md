@@ -1,13 +1,13 @@
 [⇠ Top](../README.md)
 
-## Editorial Comments on the MetaLeX Whitepaper
+# Editorial Comments on the MetaLeX Whitepaper
 
 _Sol Irvine, 2024-03-29_
 
 These are just some off-the-cuff observations made during [my close reading of the whitepaper](./whitepaper-summary-sli.md). 
 
 
-### TL;DR
+## TL;DR
 
 My primary takeaway from the whitepaper is that much of the legal mumbo-jumbo in corporate governance/events can be replaced by a more efficient and deterministic collection of smart contracts. However, those contracts must be carefully scoped to: 
 
@@ -19,7 +19,19 @@ The whitepaper presents a compelling opportunity since the crypto economy alread
 
 I like the paper's call to action. It deserves to be read in its original language. I've tried to capture the essence of the paper's thesis [in my notes](./whitepaper-summary-sli.md), but I encourage you to read [the original document](https://metalex.substack.com/p/the-metalex-whitepaper) and [its precursor blog post](https://delphilabs.medium.com/assimilating-the-borg-a-new-cryptolegal-framework-for-dao-adjacent-entities-569e54a43f83).
 
-### TradLaw is Deeply and Badly Broken
+## The Problem with DAO Governance
+
+### Emergent Approaches Fall Short
+
+In the crypto space, there's a history of tension between two major approaches to DAO governance: 
+
+- Purely code-driven DAO governance, such as the classic Compound approach where proposals by participants are limited to adjustment of quantitative parameters or code changes that do not require any human judgment to implement. The problem with this approach is that every proposer and reviewer must be fluent in code.
+
+- Open-ended DAO governance, where proposals take a narrative form and both evaluation and implementation require a significant amount of human judgment. The problem with this approach is that it's prone to capture by bad actors.
+
+The MetaLeX whitepaper leans into a hybrid approach where more nuanced automated governance mechanisms can handle more nuanced human inputs. Because neither of the current, emergent approaches has been able to fully address the needs of DAO participants, there's a lot of apathy, disappointment, angst, and room for innovation in this space.
+
+### TradLaw is Deeply Unwell
 
 As an experienced transactional lawyer and software developer, I've developed over the years some "hot takes" that align pretty well with the thesis of this whitepaper:
 
@@ -31,29 +43,7 @@ As an experienced transactional lawyer and software developer, I've developed ov
 
 - The most-asked question by clients (in my experience) is "what's standard"? Most lawyers respond to this question based on dubious anecdotal evidence—i.e., their experience and the experience of whichever of their peers responded to a mass email query. There are major structural hurdles to compiling and sharing data about what's "standard" in a given industry or transaction type.
 
-### Multilateral Appeal
-
-It's interesting that the MetaLeX thesis should resonate equally with:
-
-- Anyone who has looked deeply into DAO governance and uncovered a version of traditional corporate governance (delegation to boards and committees, capture by influential personalities, etc.), but under a veneer of "decentralization".
-
-- Anyone who has been forced to slog through fundraising, setting up an ESOP, setting up a JV or acquisition, or any other significant corporate event. 
-
-In my experience, the legal documents involved in these tasks are full of dubious logic puzzles, webs of cross-references, and unexplained references to extrinsic sources. An unintiated reader has no hope of understanding these documents without a lawyer's help, which sets up an unhealthy dependency on the lawyer's continued involvement. In other words, there is a powerful incentive for lawyers to keep the documents as complex and confusing as possible.
-
-It's also a given that the legal industry poses no threat in terms of competition. It is firmly entrenched in a 10-year+ lag behind the rest of the economy in terms of adopting new technologies, and will remain there until it's forced to alter its business model.
-
-### Evolution of the Underlying Tech
-
-When I first started building in crypto, the Gnosis SAFE multisig was the gold standard for managing a shared on-chain account, largely because it was battle-tested and already widely adopted. That hasn't changed, although the product has rebranded to [Safe {Core}](https://safe.global/core) "smart accounts", and massively improved its UX.
-
-Today, [Safe exposes an API](https://docs.safe.global/advanced/smart-account-overview) for developers to add "modules" that enhance the functionality of the Core smart account. This is a powerful feature that allows developers to build on top of the Safe platform.
-
-In my experience, serious users of Safe are hesitant to adopt modules, since they potentially introduce new code risk and surface area for attacks/bugs. If MetaLeX is able to make a strong push for adoption of some standardized and vetted modules, it could go a long way toward alleviating these concerns.
-
-In addition, there are more multisigs coming online and gathering credibility as they accrue more time without issues. Safe Core is an EVM ecosystem product. Since the MetaLeX thesis is not chain-dependent, other multisig technologies may be needed to provide a foundation in other ecosystems.
-
-### Re Computational Contracts and TradLaw Approaches to Automation
+### Why Computational Contracts Went Nowhere
 
 There's a long history of "computational contracts" in academic circles. None of these efforts has succeeded meaningfully, in my opinion. 
 
@@ -65,13 +55,24 @@ The fundamental problem is adoption, and there are three factors working against
 
 - Re-aligning lawyer incentives away from "make-work" outputs that keep them in the business of charging hourly rates for endless consultations.
 
-### Re Emergent Problems in DAO Governance
+## Multilateral Appeal
 
-In the crypto space, there's a history of tension between two major approaches to DAO governance: 
+It's interesting that the MetaLeX thesis should resonate equally with:
 
-- Purely code-driven DAO governance, such as the classic Compound approach where proposals by participants are limited to adjustment of quantitative parameters or code changes that do not require any human judgment to implement. The obvious problem with this approach is that every proposer must be fluent in code.
+- Anyone who has looked deeply into DAO governance and uncovered a version of traditional corporate governance (delegation to boards and committees, capture by influential personalities, etc.), but under a veneer of "decentralization".
 
-- Open-ended DAO governance, where proposals take a narrative form and both evaluation and implementation require a significant amount of human judgment. The obvious problem with this approach is that it's prone to capture by bad actors.
+- Anyone who has been forced to slog through fundraising, setting up an ESOP, setting up a JV or acquisition, or any other significant corporate event. 
 
-The MetaLeX whitepaper leans into a hybrid by proposing more nuanced automated governance mechanisms that can handle more nuanced human inputs than simple parameter tweaks or changes to the raw code. Because neither of the emergent approaches has been able to fully address the needs of DAO participants so far, there's a lot of apathy, disappointment, angst, and room for innovation in this space.
+In my experience, the legal documents involved in these tasks are full of dubious logic puzzles, webs of cross-references, and unexplained references to extrinsic sources. An unintiated reader has no hope of understanding these documents without a lawyer's help, which sets up an unhealthy dependency on the lawyer's continued involvement. In other words, there is a powerful incentive for lawyers to keep the documents as complex and confusing as possible.
 
+It's also a given that the legal industry poses no threat in terms of competition. It is firmly entrenched in a 10-year+ lag behind the rest of the economy in terms of adopting new technologies, and will remain there until it's forced to alter its business model.
+
+## Recent Developments in the Underlying Tech
+
+When I first started building in crypto, the Gnosis SAFE multisig was the gold standard for managing a shared on-chain account, largely because it was battle-tested and already widely adopted. That hasn't changed, although the product has rebranded to [Safe {Core}](https://safe.global/core) "smart accounts", and massively improved its UX.
+
+Today, [Safe exposes an API](https://docs.safe.global/advanced/smart-account-overview) for developers to add "modules" that enhance the functionality of the Core smart account. This is a powerful feature that allows developers to build on top of the Safe platform.
+
+In my experience, serious users of Safe are hesitant to adopt modules, since they potentially introduce new code risk and surface area for attacks/bugs. If MetaLeX is able to make a strong push for adoption of some standardized and vetted modules, it could go a long way toward alleviating these concerns.
+
+In addition, there are more multisigs coming online and gathering credibility as they accrue more time without issues. Safe Core is an EVM ecosystem product. Since the MetaLeX thesis is not chain-dependent, other multisig technologies may be needed to provide a foundation in other ecosystems.

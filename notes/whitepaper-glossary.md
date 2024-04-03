@@ -1,6 +1,6 @@
 [⇠ Top](../README.md)
 
-### Glossary of Interesting Terms from the MetaLeX Whitepaper
+# Glossary of Interesting Terms from the MetaLeX Whitepaper
 
 _Feel free to propose specific definitions. For now, I've just catalogued some of the more fun/interesting terms that jumped out at me._
 
