@@ -60,9 +60,7 @@ There's a long history of "computational contracts" in academic circles. None of
 The fundamental problem is adoption, and there are three factors working against it: 
   
 - Disrupting client expectations about what a contract can be, and moving them away from seeking peer parity.
-
 - Cultivating a community of lawyers who are willing to engage in this kind of work, and who don't lazily fall back into broken-but-familiar patterns.
-
 - Re-aligning lawyer incentives away from "make-work" outputs that keep them in the business of charging hourly rates for endless consultations.
 
 ## Recent Developments in the Underlying Tech
