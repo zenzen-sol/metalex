@@ -77,5 +77,4 @@ In addition, there are more multisigs coming online and gathering credibility as
 
 ## On Branding
 
-I think the taxonomy of "bizBORGs" vs "DAO-adjacent entities" needs to be catchier/more memorable. Adoption is with this
-kind of effort, so classic marketing/branding principles apply.
+I think the taxonomy of "bizBORGs" vs "DAO-adjacent entities" needs to be catchier/more memorable. Adoption is everything in this kind of project, so classic marketing/branding principles apply.
