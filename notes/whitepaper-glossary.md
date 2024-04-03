@@ -1,6 +1,8 @@
+[⇠ Top](../README.md)
+
 ### Glossary of Interesting Terms from the MetaLeX Whitepaper
 
-_Feel free to propose specific definitions. For now, I've just catalogued some of the more interesting terms that jumped out at me._
+_Feel free to propose specific definitions. For now, I've just catalogued some of the more fun/interesting terms that jumped out at me._
 
 - _Cybernetic economy_: An economy that integrates legal, governance and operational needs with a unique set of onchain protocols and offchain legal arrangements, purpose-built to balance agile, effective governance structures with trust-minimization and legal compliance, in which the physical and digital worlds merge on top of the “value substrate” of blockchains.
 

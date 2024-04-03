@@ -1,3 +1,5 @@
+[⇠ Top](../README.md)
+
 ### Nits in the MetaLeX Whitepaper
 
 _These are minor nits that I noticed while reading the whitepaper. They are not intended to detract from the overall quality of the document, which I found to be quite high._

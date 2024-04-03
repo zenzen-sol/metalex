@@ -1,4 +1,7 @@
+[⇠ Top](../README.md)
+
 _Editorial Comments on "The MetaLeX Whitepaper"_
+
 _Sol Irvine, 2024-03-29_
 
 I took [these notes](./whitepaper-summary-sli.md) during a careful reading of the whitepaper. 
