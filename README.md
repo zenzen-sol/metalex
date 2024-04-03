@@ -1,4 +1,4 @@
-## MetaLeX Whitepaper Guide
+## MetaLeX Whitepaper Commentary
 
 _This repo is not associated with MetaLeX or MetaLeX Labs, Inc. in any way._
 
