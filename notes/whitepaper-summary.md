@@ -88,8 +88,8 @@ Phase 1B "takes traditional business entities—for example, a venture-capital-b
 Consider the following features of current approaches to tokenized securities, and the whitepaper's responses to each:
 
 1. **Feature**: Optimize liquidity and ease the burden of cap table management.
-  
-  **Response**: Valid concerns, but essentially administrative "nice to have" features that underutilize the potential of tokenized securities.
+
+  - **Response**: Valid concerns, but essentially administrative "nice to have" features that underutilize the potential of tokenized securities.
 
 2. **Feature**: Centralization of control over tokenized securities. Justified as necessary because securities derive from a trust-based legal system, and legal compliance requires trust-based interventions.
 
