@@ -1,4 +1,4 @@
-_Editorial Comments on "The BORG Whitepaper" by MetaLeX_
+_Editorial Comments on "The MetaLeX Whitepaper"_
 _Sol Irvine, 2024-03-29_
 
 I took the notes below during a careful reading of the whitepaper. I like the paper's call to action, and it deserves to be read in its original language. I've tried to capture the essence of the paper's thesis in my notes, but I encourage you to read [the original document](https://metalex.substack.com/p/the-metalex-whitepaper).
