@@ -45,7 +45,7 @@ As an experienced transactional lawyer and coder, I've developed over the years 
 
 - Most contract don't parse—_i.e._, they don't have a clear, deterministic outcome for the most anticipated and important inputs. Defined terms/taxonomy in contract language is often imprecise and open to interpretation in ways that would render a codebase unusable.
 
-- Most clients want to know that they're getting comparable terms to what everyone else is getting, regardless of the quality or integrity of that outcome. The treat parity with their peers as a proxy for fairness and integrity of the contract terms.
+- Most clients want to know that they're getting comparable terms to what everyone else is getting, regardless of the quality or integrity of that outcome. They treat parity with their peers as a proxy for fairness and integrity of the contract terms.
 
 - The most-asked question by clients (in my experience) is "what's standard"? Most lawyers respond to this question based on dubious anecdotal evidence—_i.e._, their experience and the experience of whichever of their peers responded to a mass email query. There are major structural hurdles to compiling and sharing data about what's "standard" in a given industry or transaction type.
 
