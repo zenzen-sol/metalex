@@ -9,7 +9,7 @@ I took the notes below during a careful reading of the whitepaper. I like the pa
 
 - As an experienced transactional lawyer and software developer, I've developed over the years some "hot takes" that align pretty well with the thesis of this whitepaper:
 
-  - Most contracts are fundamentally documenting rules for moving money around. Financial rememdies and the timing of money transfers are where the rubber meets the road. Everything else is just wheelspinning, or documenting context for anticipated disputes, at best.
+  - Most contracts are fundamentally documenting rules for moving money around. Financial remedies and the timing of money transfers are where the rubber meets the road. Everything else is just wheelspinning, or documenting context for anticipated disputes, at best.
 
   - Most contract don't parse—i.e., they don't have a clear, deterministic outcome for the most anticipated and important inputs. Defined terms/taxonomy in contract language is often imprecise and open to interpretation in ways that code can never be.
 
